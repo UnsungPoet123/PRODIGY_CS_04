@@ -36,28 +36,8 @@ simple-keylogger/
 
 ---
 
-## Installation & Setup
 
-### 1. Clone the repository
 
-```
-git clone https://github.com/your-username/simple-keylogger.git
-cd simple-keylogger
-```
-
-### 2. Install dependencies
-
-```
-pip install pynput
-```
-
-### 3. Run the program
-
-```
-python keylogger.py
-```
-
----
 
 ## Usage
 
